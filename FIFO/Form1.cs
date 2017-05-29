@@ -12,7 +12,8 @@ namespace FIFO
 {
     public partial class Form1 : Form
     {
-        Queue<Proceso> miFifo = new Queue<Proceso>();
+        //Queue<Proceso> miFifo = new Queue<Proceso>();
+        ColaQueue miFifo = new ColaQueue();
         Random alea = new Random();
 
         public Form1()
@@ -44,7 +45,7 @@ namespace FIFO
                 else
                     ccu++;
                 txtProcesos.Text += cpa+Environment.NewLine;
-                txtProcesos.Text += ccu + Environment.NewLine; ;
+                txtProcesos.Text += ccu + Environment.NewLine;
             }
         }
 

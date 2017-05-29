@@ -7,3 +7,12 @@ C:\Users\gusta\Desktop\CUARTO SEMESTRE\ESTRUCTURAS DE DATOS\PRACTICAS\FIFO\FIFO\
 C:\Users\gusta\Desktop\CUARTO SEMESTRE\ESTRUCTURAS DE DATOS\PRACTICAS\FIFO\FIFO\obj\Debug\FIFO.csproj.GenerateResource.Cache
 C:\Users\gusta\Desktop\CUARTO SEMESTRE\ESTRUCTURAS DE DATOS\PRACTICAS\FIFO\FIFO\obj\Debug\FIFO.exe
 C:\Users\gusta\Desktop\CUARTO SEMESTRE\ESTRUCTURAS DE DATOS\PRACTICAS\FIFO\FIFO\obj\Debug\FIFO.pdb
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\bin\Debug\FIFO.exe.config
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\bin\Debug\FIFO.exe
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\bin\Debug\FIFO.pdb
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\obj\Debug\FIFO.Form1.resources
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\obj\Debug\FIFO.Properties.Resources.resources
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\obj\Debug\FIFO.csproj.GenerateResource.Cache
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\obj\Debug\FIFO.exe
+C:\Users\Gustavo Morentin\Desktop\GitHub\FIFO\FIFO\obj\Debug\FIFO.pdb
