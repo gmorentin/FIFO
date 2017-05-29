@@ -14,8 +14,8 @@ namespace FIFO
         private Proceso _ultimo;
         public Proceso Ultimo { get { return _ultimo; } }
 
-        private int _count;
-        public int Count { get { return _count; } }
+        private int _cont;
+        public int cont { get { return cont; } }
 
 
         public void Enqueue(Proceso nuevo)
@@ -30,16 +30,16 @@ namespace FIFO
             else
                 temp.Anterior = _inicio;
 
-            _count++;
+            _cont++;
         }
 
         public void Dequeue()
         {
             Proceso temp = _ultimo.Anterior;
 
-            if (_count != 0)
+            if (_cont != 0)
             {
-                if (_count == 1)
+                if (_cont == 1)
                 {
                     _inicio = null;
                     _ultimo = null;
@@ -49,7 +49,7 @@ namespace FIFO
                     _ultimo = temp;
                     _ultimo.Siguiente = null;
                 }
-                _count--;
+                _cont--;
             }
         }
 
